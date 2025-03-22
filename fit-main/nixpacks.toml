@@ -1,0 +1,2 @@
+[build]
+system_packages = ["ffmpeg", "libgl1-mesa-glx"]
